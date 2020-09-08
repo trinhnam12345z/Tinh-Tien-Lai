@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\TinhTienLai\bin\Debug\netcoreapp3.1\TinhTienLai.exe
+C:\Users\PC\source\repos\TinhTienLai\bin\Debug\netcoreapp3.1\TinhTienLai.deps.json
+C:\Users\PC\source\repos\TinhTienLai\bin\Debug\netcoreapp3.1\TinhTienLai.runtimeconfig.json
+C:\Users\PC\source\repos\TinhTienLai\bin\Debug\netcoreapp3.1\TinhTienLai.runtimeconfig.dev.json
+C:\Users\PC\source\repos\TinhTienLai\bin\Debug\netcoreapp3.1\TinhTienLai.dll
+C:\Users\PC\source\repos\TinhTienLai\bin\Debug\netcoreapp3.1\TinhTienLai.pdb
+C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.AssemblyInfo.cs
+C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.dll
+C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.pdb
+C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.genruntimeconfig.cache
