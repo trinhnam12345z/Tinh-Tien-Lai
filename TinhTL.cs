@@ -22,13 +22,19 @@ namespace TinhTienLai
             Console.WriteLine("Nhap % lai suat: ");
             intersetRate = Double.Parse(Console.ReadLine());
 
+            TinhTienLai(money,month,intersetRate);
+            
+        }
+        static void TinhTienLai(double money, int month, double intersetRate)
+        {
+
             double totalInterset = 0;
             for (int i = 0; i < month; i++)
             {
                 totalInterset = money * (intersetRate / 100) / 12 * 3;
             }
 
-            Console.WriteLine("Lai suat cua ban trong {0} thang la : {1}" ,month ,totalInterset);
+            Console.WriteLine("Lai suat cua ban trong {0} thang la : {1}", month, totalInterset);
             Console.ReadKey();
         }
     }

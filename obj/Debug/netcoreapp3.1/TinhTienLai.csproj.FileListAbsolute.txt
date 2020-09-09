@@ -10,3 +10,16 @@ C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.csproj.
 C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.dll
 C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.pdb
 C:\Users\PC\source\repos\TinhTienLai\obj\Debug\netcoreapp3.1\TinhTienLai.genruntimeconfig.cache
+E:\C#\Tinh-Tien-Lai\bin\Debug\netcoreapp3.1\TinhTienLai.exe
+E:\C#\Tinh-Tien-Lai\bin\Debug\netcoreapp3.1\TinhTienLai.deps.json
+E:\C#\Tinh-Tien-Lai\bin\Debug\netcoreapp3.1\TinhTienLai.runtimeconfig.json
+E:\C#\Tinh-Tien-Lai\bin\Debug\netcoreapp3.1\TinhTienLai.runtimeconfig.dev.json
+E:\C#\Tinh-Tien-Lai\bin\Debug\netcoreapp3.1\TinhTienLai.dll
+E:\C#\Tinh-Tien-Lai\bin\Debug\netcoreapp3.1\TinhTienLai.pdb
+E:\C#\Tinh-Tien-Lai\obj\Debug\netcoreapp3.1\TinhTienLai.csprojAssemblyReference.cache
+E:\C#\Tinh-Tien-Lai\obj\Debug\netcoreapp3.1\TinhTienLai.AssemblyInfoInputs.cache
+E:\C#\Tinh-Tien-Lai\obj\Debug\netcoreapp3.1\TinhTienLai.AssemblyInfo.cs
+E:\C#\Tinh-Tien-Lai\obj\Debug\netcoreapp3.1\TinhTienLai.csproj.CoreCompileInputs.cache
+E:\C#\Tinh-Tien-Lai\obj\Debug\netcoreapp3.1\TinhTienLai.dll
+E:\C#\Tinh-Tien-Lai\obj\Debug\netcoreapp3.1\TinhTienLai.pdb
+E:\C#\Tinh-Tien-Lai\obj\Debug\netcoreapp3.1\TinhTienLai.genruntimeconfig.cache
